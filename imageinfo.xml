@@ -1,0 +1,36 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontcover.jpg" filesize="56055" filedate="2006-03-04 23:26:21" width="546px" height="720px">
+</image>
+<image path="images/logo.gif" filesize="9992" filedate="2006-03-04 23:07:51" width="137px" height="202px">
+</image>
+<image path="images/p01.jpg" filesize="74328" filedate="2006-03-04 23:11:04" width="512px" height="720px">
+</image>
+<image path="images/p02.jpg" filesize="91086" filedate="2006-03-04 23:13:21" width="520px" height="632px">
+</image>
+<image path="images/p03.jpg" filesize="105606" filedate="2006-03-04 23:15:14" width="505px" height="720px">
+</image>
+<image path="images/p04.jpg" filesize="124513" filedate="2006-03-04 23:16:35" width="524px" height="666px">
+</image>
+<image path="images/p05.jpg" filesize="90380" filedate="2006-03-04 23:18:29" width="489px" height="720px">
+</image>
+<image path="images/p06.jpg" filesize="88553" filedate="2006-03-04 23:19:49" width="488px" height="720px">
+</image>
+<image path="images/p07.jpg" filesize="82454" filedate="2006-03-04 23:21:11" width="509px" height="720px">
+</image>
+<image path="images/p08.jpg" filesize="108539" filedate="2006-03-04 23:22:39" width="509px" height="720px">
+</image>
+<image path="images/script-g.gif" filesize="314" filedate="2006-03-04 23:03:44" width="33px" height="46px">
+</image>
+<image path="images/script-k.gif" filesize="374" filedate="2006-03-04 23:05:15" width="61px" height="33px">
+</image>
+<image path="images/script-m.gif" filesize="330" filedate="2006-03-04 23:06:09" width="56px" height="33px">
+</image>
+<image path="images/spine.jpg" filesize="9035" filedate="2006-03-04 23:27:29" width="720px" height="93px">
+</image>
+</images>
